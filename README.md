@@ -1,4 +1,4 @@
-#Essential Mac Apps for Developers:
+#Essential Apps for Developers on OS X:
 
 ##Free:
 - Caffeine: Prevent auto sleep. http://lightheadsw.com/caffeine/
