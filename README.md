@@ -5,8 +5,6 @@
 - ClipMenu: Clipboard management. http://www.clipmenu.com/
 - Disk Diag: Cleanup unneeded files. https://itunes.apple.com/us/app/disk-diag/id672206759?mt=12
 - Homebrew: Package management. http://brew.sh/
-- MacPorts: Package management. http://www.macports.org/
-- Alfred: Application launcher. http://www.alfredapp.com/
 - Quicksilver: Application launcher. http://qsapp.com/
 - SelfControl: Block distractions for a set amount of time. http://selfcontrolapp.com/
 - SourceTree: Git and Mercurial GUI client. http://www.sourcetreeapp.com/
