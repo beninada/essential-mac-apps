@@ -6,7 +6,10 @@
 - ClipMenu: Clipboard management. http://www.clipmenu.com/
 - Dash: API Doc Browser and Code Snippet Manager. http://kapeli.com/dash
 - Disk Diag: Cleanup unneeded files. https://itunes.apple.com/us/app/disk-diag/id672206759?mt=12
+- FileZilla: FTP GUI client. https://filezilla-project.org/
+- Growl: Notification system. http://growl.info/
 - Homebrew: Package management. http://brew.sh/
+- iTerm2: Alternative to Terminal. http://www.iterm2.com/
 - Kaleidoscope: File comparison. http://kaleidoscopeapp.com/
 - LittleIpsum: Fast lorem ipsum text generation. http://littleipsum.com/
 - Quicksilver: Application launcher. http://qsapp.com/
