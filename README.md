@@ -27,6 +27,6 @@
 
 ##How to Share:
 - [Share on Twitter](http://twitter.com/home?status=https://github.com/beninada/essential-mac-apps "Share on Twitter")
-- [Share on Facebook](http://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/beninada/essential-mac-apps "Share on Facebook")
+- [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/beninada/essential-mac-apps&p%5Bimages%5D%5B0%5D=&p%5Btitle%5D=Essential%20Mac%20Apps&p%5Bsummary%5D= "Share on Facebook")
 - [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/beninada/essential-mac-apps "Share on LinkedIn")
 - [Share on Google+](https://plus.google.com/share?url=https://github.com/beninada/essential-mac-apps "Share on Google+")
