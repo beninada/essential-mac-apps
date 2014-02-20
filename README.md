@@ -3,7 +3,6 @@
 ##Free:
 - Caffeine: Prevent auto sleep. http://lightheadsw.com/caffeine/
 - ClipMenu: Clipboard management. http://www.clipmenu.com/
-- Dash: API Doc Browser and Code Snippet Manager. http://kapeli.com/dash
 - Disk Diag: Cleanup unneeded files. https://itunes.apple.com/us/app/disk-diag/id672206759?mt=12
 - Homebrew: Package management. http://brew.sh/
 - MacPorts: Package management. http://www.macports.org/
@@ -13,8 +12,10 @@
 - SourceTree: Git and Mercurial GUI client. http://www.sourcetreeapp.com/
 - The Unarchiver: Replacement for Archive Utility. https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12
 - VirtualBox: Parallel virtualization. https://www.virtualbox.org/
+- XQuartz: X-windowing on OS X. https://xquartz.macosforge.org/landing/
 
-##Free for evaluation
+##Freemium/Free for evaluation:
+- Dash: API Doc Browser and Code Snippet Manager. http://kapeli.com/dash
 - Sublime Text: Sophisticated text editing. http://www.sublimetext.com/
 
 ##Paid:
@@ -22,4 +23,8 @@
 - Coda: Web IDE. https://panic.com/coda/
 - Kaleidoscope: File comparison. http://kaleidoscopeapp.com/
 - LittleIpsum: Fast lorem ipsum text generation. http://littleipsum.com/
+
+##Notes:
+Keep in mind that many of these apps may or may not be completely "free" in respect to every legal term out there.
+Also, do a fellow developer a favor and send a donation if you enjoy what you use.
 
