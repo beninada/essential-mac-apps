@@ -7,6 +7,7 @@
 - Dash: API Doc Browser and Code Snippet Manager. http://kapeli.com/dash
 - Disk Diag: Cleanup unneeded files. https://itunes.apple.com/us/app/disk-diag/id672206759?mt=12
 - FileZilla: FTP GUI client. https://filezilla-project.org/
+- F.lux: Adjusts the color of your screen to match the time of day. http://justgetflux.com
 - Growl: Notification system. http://growl.info/
 - Homebrew: Package management. http://brew.sh/
 - iTerm2: Alternative to Terminal. http://www.iterm2.com/
