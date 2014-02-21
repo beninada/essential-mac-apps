@@ -8,17 +8,20 @@
 - Disk Diag: Cleanup unneeded files. https://itunes.apple.com/us/app/disk-diag/id672206759?mt=12
 - FileZilla: FTP GUI client. https://filezilla-project.org/
 - F.lux: Adjusts the color of your screen to match the time of day. http://justgetflux.com
+- gfxCardStatus: Monitor battery life affected by graphics. http://gfx.io/
 - Growl: Notification system. http://growl.info/
 - Homebrew: Package management. http://brew.sh/
 - iTerm2: Alternative to Terminal. http://www.iterm2.com/
 - Kaleidoscope: File comparison. http://kaleidoscopeapp.com/
 - LittleIpsum: Fast lorem ipsum text generation. http://littleipsum.com/
+- MAMP: Run a local server on OS X. http://www.mamp.info/en/index.html
 - Quicksilver: Application launcher. http://qsapp.com/
 - SelfControl: Block distractions for a set amount of time. http://selfcontrolapp.com/
 - SourceTree: Git and Mercurial GUI client. http://www.sourcetreeapp.com/
 - Sublime Text: Sophisticated text editing. http://www.sublimetext.com/
 - The Unarchiver: Replacement for Archive Utility. https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12
 - VirtualBox: Parallel virtualization. https://www.virtualbox.org/
+- XCode: IDE for creating apps for Mac, iPhone, and iPad. https://developer.apple.com/xcode/
 - XQuartz: X-windowing on OS X. https://xquartz.macosforge.org/landing/
 
 ##How to Contribute:
