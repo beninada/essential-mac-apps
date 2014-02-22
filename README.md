@@ -18,6 +18,7 @@
 - Quicksilver: Application launcher. http://qsapp.com/
 - SelfControl: Block distractions for a set amount of time. http://selfcontrolapp.com/
 - SourceTree: Git and Mercurial GUI client. http://www.sourcetreeapp.com/
+- SQLite Professional: SQLite and Core Data UI. https://itunes.apple.com/us/app/sqlite-professional/id586001240?mt=12
 - Sublime Text: Sophisticated text editing. http://www.sublimetext.com/
 - The Unarchiver: Replacement for Archive Utility. https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12
 - VirtualBox: Parallel virtualization. https://www.virtualbox.org/
