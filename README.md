@@ -8,6 +8,7 @@
 - Disk Diag: Cleanup unneeded files. https://itunes.apple.com/us/app/disk-diag/id672206759?mt=12
 - FileZilla: FTP GUI client. https://filezilla-project.org/
 - F.lux: Adjusts the color of your screen to match the time of day. http://justgetflux.com
+- Fugu SSH: Easy file transfers between machines. http://sourceforge.net/projects/fugussh/files/
 - gfxCardStatus: Monitor battery life affected by graphics. http://gfx.io/
 - Growl: Notification system. http://growl.info/
 - Homebrew: Package management. http://brew.sh/
@@ -17,6 +18,7 @@
 - MAMP: Run a local server on OS X. http://www.mamp.info/en/index.html
 - Quicksilver: Application launcher. http://qsapp.com/
 - SelfControl: Block distractions for a set amount of time. http://selfcontrolapp.com/
+- Sip: Get the Hex Code for any color you need. https://itunes.apple.com/us/app/sip/id507257563?mt=12
 - SourceTree: Git and Mercurial GUI client. http://www.sourcetreeapp.com/
 - Sublime Text: Sophisticated text editing. http://www.sublimetext.com/
 - The Unarchiver: Replacement for Archive Utility. https://itunes.apple.com/us/app/the-unarchiver/id425424353?mt=12
