@@ -1,4 +1,4 @@
-#Essential Apps for Developers on OS X:
+# Essential Apps for Developers on OS X:
 
 - BetterSnapTool: Window snapping. https://itunes.apple.com/us/app/bettersnaptool/id417375580?mt=12
 - Caffeine: Prevent auto sleep. http://lightheadsw.com/caffeine/
@@ -36,12 +36,12 @@
 - Xee: Image viewer for a bunch of image formats. http://xee.c3.cx/
 - XQuartz: X-windowing on OS X. https://xquartz.macosforge.org/landing/
 
-##How to Contribute:
+## How to Contribute:
 1. [Fork](https://help.github.com/articles/fork-a-repo "Fork")
 2. Edit
 3. [Send a pull request](https://help.github.com/articles/using-pull-requests "Send a pull request")
 
-##How to Share:
+## How to Share:
 - [Share on Twitter](http://twitter.com/home?status=https://github.com/beninada/essential-mac-apps "Share on Twitter")
 - [Share on Facebook](https://www.facebook.com/sharer/sharer.php?s=100&p%5Burl%5D=https://github.com/beninada/essential-mac-apps&p%5Bimages%5D%5B0%5D=&p%5Btitle%5D=Essential%20Mac%20Apps&p%5Bsummary%5D= "Share on Facebook")
 - [Share on LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://github.com/beninada/essential-mac-apps "Share on LinkedIn")
