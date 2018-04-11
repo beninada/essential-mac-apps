@@ -1,6 +1,7 @@
 # Essential Apps for Developers on OS X:
 
 - AquaMacs: The Emacs for Mac. http://aquamacs.org
+- AppWage: iTunes Connect reporting tool. http://appwage.com
 - ArangoDB: Multimodel database. https://arangodb.com
 - Atom: A hackable editor. https://atom.io
 - Base: An app for creating, designing, editing and browsing SQLite 3 database files. http://menial.co.uk/base/
